@@ -1,4 +1,4 @@
-# Pub-Sub-system
+# Pub-Sub System
 This is a pub-sub E-commerce system that aims to provide an event-driven service
 
 ## Project Overview
