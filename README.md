@@ -27,20 +27,16 @@ Our goal for this project is to design a system for e-commerce companies to mana
  Apply to Go built-in primitive by Golang goroutine and channel
  Keep communication between several publishers/subscribers at the same time
 
+![截圖 2024-01-08 下午5 47 26](https://github.com/angelahuang3/Pub-Sub-system/assets/123219721/4767a627-9b85-41f2-806d-2d9998c5bceb)
+![截圖 2024-01-08 下午5 47 57](https://github.com/angelahuang3/Pub-Sub-system/assets/123219721/89a46e72-53f6-4bc6-88f5-6e61b87eab67)
+
 
 ![截圖 2024-01-08 下午5 35 01](https://github.com/angelahuang3/Pub-Sub-system/assets/123219721/b65b35e4-9fd7-45c5-9f7f-bcacc42f59d0)
 
 ## Architecture
 ![image](https://github.com/angelahuang3/Pub-Sub-system/assets/123219721/bc3c1819-0756-486c-83bb-ba3f483bff25)
 
-**Order client**![image](https://github.com/angelahuang3/Pub-Sub-system/assets/123219721/54397899-6357-4989-82ac-d06699a30ffa)
-
-**Packaging client**![image](https://github.com/angelahuang3/Pub-Sub-system/assets/123219721/c812cbea-de58-4a5d-ac55-8c5a563e451e)
-
-**Shipping client**![image](https://github.com/angelahuang3/Pub-Sub-system/assets/123219721/d7a4e928-0683-43c1-8e13-ca2a6118121b)
-
-**Topic Tree Architecture**
-![image](https://github.com/angelahuang3/Pub-Sub-system/assets/123219721/40767c7e-fde3-42d6-a6cd-4ac51cd2ab5e)![image](https://github.com/angelahuang3/Pub-Sub-system/assets/123219721/2eb9b8fb-60f2-47cb-b3c7-026df7674dcb)![image](https://github.com/angelahuang3/Pub-Sub-system/assets/123219721/729698bf-588a-4096-94cf-0fa756bfa4fc)
+![截圖 2024-01-08 下午5 47 01](https://github.com/angelahuang3/Pub-Sub-system/assets/123219721/5f4e9bec-9dfc-4fd3-9f05-109d70122112)
 
 
 
