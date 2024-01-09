@@ -33,19 +33,14 @@ Our goal for this project is to design a system for e-commerce companies to mana
 ## Architecture
 ![image](https://github.com/angelahuang3/Pub-Sub-system/assets/123219721/bc3c1819-0756-486c-83bb-ba3f483bff25)
 
-**Order client**
-![image](https://github.com/angelahuang3/Pub-Sub-system/assets/123219721/54397899-6357-4989-82ac-d06699a30ffa)
+**Order client**![image](https://github.com/angelahuang3/Pub-Sub-system/assets/123219721/54397899-6357-4989-82ac-d06699a30ffa)
 
-**Packaging client**
-![image](https://github.com/angelahuang3/Pub-Sub-system/assets/123219721/c812cbea-de58-4a5d-ac55-8c5a563e451e)
+**Packaging client**![image](https://github.com/angelahuang3/Pub-Sub-system/assets/123219721/c812cbea-de58-4a5d-ac55-8c5a563e451e)
 
-**Shipping client**
-![image](https://github.com/angelahuang3/Pub-Sub-system/assets/123219721/d7a4e928-0683-43c1-8e13-ca2a6118121b)
+**Shipping client**![image](https://github.com/angelahuang3/Pub-Sub-system/assets/123219721/d7a4e928-0683-43c1-8e13-ca2a6118121b)
 
 **Topic Tree Architecture**
-![image](https://github.com/angelahuang3/Pub-Sub-system/assets/123219721/40767c7e-fde3-42d6-a6cd-4ac51cd2ab5e)
-![image](https://github.com/angelahuang3/Pub-Sub-system/assets/123219721/2eb9b8fb-60f2-47cb-b3c7-026df7674dcb)
-![image](https://github.com/angelahuang3/Pub-Sub-system/assets/123219721/729698bf-588a-4096-94cf-0fa756bfa4fc)
+![image](https://github.com/angelahuang3/Pub-Sub-system/assets/123219721/40767c7e-fde3-42d6-a6cd-4ac51cd2ab5e)![image](https://github.com/angelahuang3/Pub-Sub-system/assets/123219721/2eb9b8fb-60f2-47cb-b3c7-026df7674dcb)![image](https://github.com/angelahuang3/Pub-Sub-system/assets/123219721/729698bf-588a-4096-94cf-0fa756bfa4fc)
 
 
 
